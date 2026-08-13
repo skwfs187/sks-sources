@@ -1,0 +1,12 @@
+{
+  "hookOp": true,
+  "runtimelogs": false,
+  "inf_loops": false,
+  "constants": true,
+  "explore_funcs": true,
+  "spyexeconly": true,
+  "minifier": true,
+  "lua": true,
+  "roblox": true,
+  "discord": true
+}
